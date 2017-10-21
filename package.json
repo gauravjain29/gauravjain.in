@@ -44,5 +44,21 @@
     "express": "^4.15.4",
     "gzippo": "^0.2.0",
     "jsforce": "^1.8.0"
-  }
+  },
+  "description": "This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular) version 0.16.0.",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gauravjain29@github.com/gauravjain29/gauravjain.in.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravjain29/gauravjain.in/issues"
+  },
+  "homepage": "https://github.com/gauravjain29/gauravjain.in#readme"
 }
